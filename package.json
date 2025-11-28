@@ -1,0 +1,13 @@
+{
+  "name": "com.firstsymbol.udmcore",
+  "displayName": "UDM Core",
+  "description": "Unity Development Modules Core",
+  "version": "0.0.1",
+  "documentationUrl": "https://github.com/FirstSymbol/UDM-Core.git",
+  "dependencies": {
+  },
+  "author": {
+    "name": "FirstSymbol",
+    "url": "https://linkedin.com/in/firstsymbol"
+  }
+}
