@@ -6,6 +6,7 @@
   "documentationUrl": "https://github.com/FirstSymbol/UDM-Core.git",
   "dependencies": {
   },
+  "license": "MIT",
   "author": {
     "name": "FirstSymbol",
     "url": "https://linkedin.com/in/firstsymbol"
